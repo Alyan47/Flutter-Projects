@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "516091351324",
+    "project_id": "pak-brew-crew",
+    "storage_bucket": "pak-brew-crew.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:516091351324:android:9dd26816e7219e89c96ad9",
+        "android_client_info": {
+          "package_name": "com.pak.brew_crew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "516091351324-ba6ehlgth3eabu1n8dlfj9ioi9em2cve.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqKaaLl4V0-hUSeU94ETvu82FzgP5KDzw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "516091351324-ba6ehlgth3eabu1n8dlfj9ioi9em2cve.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
